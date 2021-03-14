@@ -41,7 +41,7 @@ UPX ?
 Google it ….
  It is a packer …. Lets download and unpack then ….
 
-![Desktop View](/assets/img/mozianalysis/unpackerror.png){: .normal}
+![Desktop View](/assets/img/mozianalysis/unpackererror.png){: .normal}
 
 Hmm corrupted!
 Similar resource : Corrupted UPX Packed ELF Repair – Threat Analysis (vcodispot.com)
